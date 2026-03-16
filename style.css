@@ -129,10 +129,12 @@ nav {
 
 .about-me__picture {
     width: 100%;
+    transform: scale(1.4);
+    padding-bottom: 160px;
+    padding-right: 20px;
+    padding-top: 8px;
 
     /* Improving my own picture */
-    transform: scale(1.5);
-    padding-top: 8px;
 }
 
 .about-me__info--title {
